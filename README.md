@@ -7,5 +7,7 @@ I'm a Computer Science student with a passion for building projects, I love seei
 **Tools and frameworks**: Spring Boot, React, NodeJS, Docker, MySQL
 
 ## Stats
-![StanislawStankiewicz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=StanislawStankiewicz&theme=dark&hide_border=true)
-![StanislawStankiewicz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StanislawStankiewicz&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislawStankiewicz&theme=dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StanislawStankiewicz&theme=dark&hide_border=true" height="150" alt="streak graph"  />
+</div>
